@@ -5,6 +5,7 @@ import ProductGrid from '@/components/picture2'
 import Picture3 from '@/components/picture3'
 import Gallery from '@/components/picture4'
 
+
 function Home() {
   return (
     <div>
@@ -13,8 +14,12 @@ function Home() {
       <ProductGrid/>
       <Picture3/>
       <Gallery/>
-    
+     
+     
     </div>
+    
+
+    
   )
 }
 
